@@ -1,4 +1,4 @@
-# w-to-mu-nu
+# w-to-mu-nu transverse mass analysis
 
 Overview:
 The analysis is based on the cms data from CERN opendata. The data contains 100k events where one muon candidate was observed and missing energy implies to the presence of a neutrino. The data is a subset of the total event information from the primary dataset SingleMu 2011. They are not suitable for a full physics analysis. This project is strictly exploratory and lacks any significant implications due to the nature of the data. 
